@@ -144,3 +144,4 @@ def is_match(face_image, known_face):
 if __name__ == '__main__':
     load_known_faces()
     app.run(debug=True)
+
